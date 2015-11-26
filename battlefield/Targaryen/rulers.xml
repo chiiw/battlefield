@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<OpenRuler>
+<RulerTypes>
+<class>targaryen.TRuler</class>
+<description>Targaryen</description>
+</RulerTypes>
+<RulerTypes>
+<class>net.sf.battlefieldjava.samples.sam.MyRuler</class>
+<description>Sample</description>
+</RulerTypes>
+</OpenRuler>
