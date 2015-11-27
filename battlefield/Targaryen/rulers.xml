@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <OpenRuler>
-<RulerTypes>
-<class>targaryen.TRuler</class>
-<description>Targaryen</description>
-</RulerTypes>
-<RulerTypes>
-<class>net.sf.battlefieldjava.samples.sam.MyRuler</class>
-<description>Sample</description>
-</RulerTypes>
+	<RulerTypes>
+		<class>targaryen.TRuler</class>
+		<description>Targaryen</description>
+	</RulerTypes>
+	<RulerTypes>
+		<class>net.sf.battlefieldjava.samples.first.MyRuler</class>
+		<description>Brett</description>
+	</RulerTypes>
+	<RulerTypes>
+		<class>net.sf.battlefieldjava.samples.sam.MyRuler</class>
+		<description>Sam 1</description>
+	</RulerTypes>
+	<RulerTypes>
+		<class>sam.CodeRuler.MyRuler</class>
+		<description>Sam 2</description>
+	</RulerTypes>
+<Settings>
+<width>40</width>
+<height>40</height>
+<rounds>300</rounds>
+<duration>-1</duration>
+<strength>
+<castles>1000</castles>
+<knights>100</knights>
+<peasants>0</peasants>
+</strength>
+<population>
+<castles>1</castles>
+<knights>10</knights>
+<peasants>10</peasants>
+</population>
+<debugMode>false</debugMode>
+</Settings>
 </OpenRuler>
