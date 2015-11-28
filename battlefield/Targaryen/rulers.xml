@@ -16,6 +16,10 @@
 		<class>sam.CodeRuler.MyRuler</class>
 		<description>Sam 2</description>
 	</RulerTypes>
+<RulerTypes>
+<class>targaryen.TRuler2</class>
+<description>Ruler2</description>
+</RulerTypes>
 <Settings>
 <width>40</width>
 <height>40</height>
